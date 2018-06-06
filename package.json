@@ -11,7 +11,8 @@
   "dependencies": {
     "feedparser-promised": "^1.5.0",
     "micro": "^9.3.1",
-    "micro-cors": "^0.1.0"
+    "micro-cors": "^0.1.0",
+    "node-fetch": "^2.1.2"
   },
   "devDependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
